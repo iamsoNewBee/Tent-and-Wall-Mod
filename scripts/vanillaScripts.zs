@@ -1,0 +1,22 @@
+recipes.addShaped(<114514:tentGenerator2>, [[<114514:paneWO2>, <114514:paneWO2>, <114514:paneWO2>], [<114514:paneWO2>, <114514:paneWO2>, <114514:paneWO2>], [<minecraft:fence>, <minecraft:leather>, <minecraft:fence>]]);
+recipes.addShaped(<114514:tentGenerator1>, [[<114514:paneWO1>, <114514:paneWO1>, <114514:paneWO1>], [<114514:paneWO1>, <114514:paneWO1>, <114514:paneWO1>], [<minecraft:fence>, <minecraft:leather>, <minecraft:fence>]]);
+recipes.addShaped(<114514:tentGenerator>, [[<114514:paneWO>, <114514:paneWO>, <114514:paneWO>], [<114514:paneWO>, <114514:paneWO>, <114514:paneWO>], [<minecraft:fence>, <minecraft:leather>, <minecraft:fence>]]);
+recipes.addShaped(<114514:paneWO2> * 2, [[<minecraft:wool:13>, <minecraft:wool:13>, <minecraft:wool:13>], [<minecraft:string>, <ore:plankWood>, <minecraft:string>], [<minecraft:wool:13>, <minecraft:wool:13>, <minecraft:wool:13>]]);
+recipes.addShaped(<114514:paneWO1> * 2, [[<minecraft:wool:12>, <minecraft:wool:12>, <minecraft:wool:12>], [<minecraft:string>, <ore:plankWood>, <minecraft:string>], [<minecraft:wool:12>, <minecraft:wool:12>, <minecraft:wool:12>]]);
+recipes.addShaped(<114514:paneWO> *  2, [[<minecraft:wool>, <minecraft:wool>, <minecraft:wool>], [<minecraft:string>, <ore:plankWood>, <minecraft:string>], [<minecraft:wool>, <minecraft:wool>, <minecraft:wool>]]);
+recipes.addShaped(<114514:paneGreen> * 3, [[<ore:ingotIron>, <ore:dyeLime>, <ore:ingotIron>], [<minecraft:iron_bars>, <minecraft:iron_bars>, <minecraft:iron_bars>]]);
+recipes.addShaped(<114514:paneBlue> * 3, [[<ore:ingotIron>, <ore:dyeCyan>, <ore:ingotIron>], [<minecraft:iron_bars>, <minecraft:iron_bars>, <minecraft:iron_bars>]]);
+recipes.addShaped(<114514:paneBlue> * 3, [[<ore:ingotIron>, <ore:dyeBlue>, <ore:ingotIron>], [<minecraft:iron_bars>, <minecraft:iron_bars>, <minecraft:iron_bars>]]);
+recipes.addShaped(<114514:paneBlue> * 3, [[<ore:ingotIron>, <ore:dyeLightBlue>, <ore:ingotIron>], [<minecraft:iron_bars>, <minecraft:iron_bars>, <minecraft:iron_bars>]]);
+recipes.addShaped(<114514:paneGreen> * 3, [[<ore:ingotIron>, <ore:dyeGreen>, <ore:ingotIron>], [<minecraft:iron_bars>, <minecraft:iron_bars>, <minecraft:iron_bars>]]);
+recipes.addShaped(<114514:pane> * 3, [[<ore:ingotIron>, null, <ore:ingotIron>], [<minecraft:iron_bars>, <minecraft:iron_bars>, <minecraft:iron_bars>]]);
+recipes.addShaped(<114514:paneWD2> * 2, [[<minecraft:planks:4>, <minecraft:planks:4>, <minecraft:planks:4>], [<minecraft:planks:4>, <minecraft:planks:4>, <minecraft:planks:4>]]);
+recipes.addShaped(<114514:paneWD3> * 2, [[<minecraft:planks:5>, <minecraft:planks:5>, <minecraft:planks:5>], [<minecraft:planks:5>, <minecraft:planks:5>, <minecraft:planks:5>]]);
+recipes.addShaped(<114514:paneWD1> * 2, [[<minecraft:planks:3>, <minecraft:planks:3>, <minecraft:planks:3>], [<minecraft:planks:3>, <minecraft:planks:3>, <minecraft:planks:3>]]);
+recipes.addShaped(<114514:paneWD4> * 2, [[<minecraft:planks:2>, <minecraft:planks:2>, <minecraft:planks:2>], [<minecraft:planks:2>, <minecraft:planks:2>, <minecraft:planks:2>]]);
+recipes.addShaped(<114514:paneWD5> * 2, [[<minecraft:planks:1>, <minecraft:planks:1>, <minecraft:planks:1>], [<minecraft:planks:1>, <minecraft:planks:1>, <minecraft:planks:1>]]);
+recipes.addShaped(<114514:paneWooden> * 2, [[<minecraft:planks>, <minecraft:planks>, <minecraft:planks>], [<minecraft:planks>, <minecraft:planks>, <minecraft:planks>]]);
+recipes.addShaped(<114514:tentdoor3>, [[<minecraft:wool:13>, <minecraft:wool:13>], [<minecraft:wool:13>, <minecraft:wool:13>], [<minecraft:wool:13>, <minecraft:wool:13>]]);
+recipes.addShaped(<114514:tentdoor2>, [[<minecraft:wool:12>, <minecraft:wool:12>], [<minecraft:wool:12>, <minecraft:wool:12>], [<minecraft:wool:12>, <minecraft:wool:12>]]);
+recipes.addShaped(<114514:tentdoor1>, [[<minecraft:wool>, <minecraft:wool>], [<minecraft:wool>, <minecraft:wool>], [<minecraft:wool>, <minecraft:wool>]]);
+
